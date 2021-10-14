@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 	<p>
-	Prueba en vivo, en el 2021, Octubre 14, anio del senior. Prueba 1:22pm
+	Prueba en vivo, en el 2021, Octubre 14, anio del senior. Prueba 1:22pm. Ya no se que escribir
 	</p>
         <a
           className="App-link"
